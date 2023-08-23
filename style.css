@@ -1,0 +1,38 @@
+h1
+{
+color:green ;
+}
+
+p{
+    color:red;
+}
+button{
+    color:blue;
+    background-color:rgb(100,100,100 )
+}
+body{
+    background-color: rgb(200,200,100 );
+}
+#box{
+     color: white;
+    background-color:blue  ;
+}
+
+.firstclass{
+    color: red;
+}
+p{
+  background-color: black;
+  text-align:left;
+  color: white;
+}
+button{
+    background-color: green;
+}
+h2{
+    text-decoration: underline;
+}
+
+a{
+    text-decoration: none;
+}
