@@ -1,0 +1,75 @@
+h1{
+    font-size:40px;
+}
+h2{
+
+    margin-bottom:40px;
+    margin-top:10px;
+}
+
+section{
+    margin:20px;
+}
+
+body
+{
+    width:90%;
+    margin:20px;
+}
+
+  /* here we will arrange the years by using tht flexbox */
+
+.nvbar{
+    height: 40px;    
+    background-color: black;
+    color:white;
+    display:flex;
+    flex-direction:row;
+    justify-content:flex-end;
+   
+}
+.info{
+    font-weight: 500px;
+    padding-left:100px;
+     padding-right:140px;
+     margin-bottom:30px;
+     padding-bottom:20px;
+}
+
+/* //bold class is for the sub-headings such as assets and liabiliteis */
+.line{
+    height:3px;
+    background-color: black;
+}
+
+.s1{
+font-size: 25px;
+color:#87CEFA;
+font-weight:30px;
+}
+
+.total
+{
+    font-size: 20px;
+    font-weight:bold;margin-bottom:5px ;
+    border-bottom: 5px;
+
+}
+.sub{
+background-color:#D3D3D3;
+font-weight:bold;
+height:20px;
+padding:7px;
+}
+
+.text{
+    font-style: italic;
+}
+
+.firstcol
+{
+color:black;
+display:inline-block;
+text-align:right;
+
+}
